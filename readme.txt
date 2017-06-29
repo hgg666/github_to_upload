@@ -13,7 +13,7 @@ step6:将要上传的文件复制到上一步的文件夹中
 step7:分别执行以下命令
 git init
 git add 文件名
-git comit -m "备注名称"
+git commit -m "备注名称"
 git remote add origin +库地址
 git push -u origin master
 
